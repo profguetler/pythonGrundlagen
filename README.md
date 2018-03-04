@@ -1,0 +1,13 @@
+# Python Grundlagen
+
+## Was ist Pyhton?
+...
+
+## Installation
+...
+
+## IDLE - die Pyhton-IDE
+...
+
+## Einfache Variable und Text-Ausgabe
+...
