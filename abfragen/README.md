@@ -12,4 +12,4 @@ else:
 	print("Name ist kleiner als 10")
 ```
 
-
+Hinweis: ein if/else Statement wird immer mit einem ":" abgeschlossen.
