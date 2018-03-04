@@ -6,7 +6,7 @@
 ## Installation
 ...
 
-## IDLE - die Pyhton-IDE
+## IDLE - die Python-IDE
 ...
 
 ## Einfache Variable und Text-Ausgabe
